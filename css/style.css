@@ -2041,7 +2041,7 @@ p + .tt-sound-player {
   justify-content: flex-end;
   align-content: flex-start; }
 
-/* Мisible */
+/* Ðœisible */
 .tt-visible__descktop-xl {
   display: none; }
   @media (min-width: 1230px) {
@@ -10177,7 +10177,7 @@ body.tt-pupup-open {
   .f-info__icon + .f-info__title {
     margin-top: 9px; }
   .f-logo {
-    max-width: 88px; }
+    max-width: 388px; }
   .f-social-icon {
     margin-top: 23px; } }
 
